@@ -1,4 +1,6 @@
 {
   "Llave": "Valor",
-  "Clave":"123456"
+  "Clave":"123456",
+  "Valor": 123,
+  "Otro": 456
 }
